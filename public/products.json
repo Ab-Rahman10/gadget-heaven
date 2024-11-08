@@ -1,0 +1,158 @@
+[
+  {
+    "productId": "P001",
+    "name": "Apple iPhone 15 Pro Max",
+    "image": "https://i.ibb.co.com/cycTT5T/download.jpg",
+    "category": "IPhone",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "productId": "P002",
+    "name": "Samsung Galaxy S23 Ultra",
+    "image": "https://i.ibb.co.com/G3jVk2Y/download-1.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Redefine your smartphone experience with the Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch QHD+ Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system",
+      "100x Space Zoom",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "productId": "P003",
+    "name": "Google Pixel 8",
+    "image": "https://i.ibb.co.com/09Yc4wq/download-2.jpg",
+    "category": "Phones",
+    "price": 899,
+    "description": "Capture every moment with the Google Pixel 8.",
+    "specification": [
+      "6.3-inch OLED display",
+      "Google Tensor G3",
+      "Dual-camera system",
+      "Magic Eraser"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "productId": "P004",
+    "name": "Dell XPS 13",
+    "image": "https://i.ibb.co.com/jk8rcYp/download-11.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Compact and powerful laptop for all your computing needs.",
+    "specification": [
+      "13.4-inch FHD+ InfinityEdge display",
+      "Intel Core i7",
+      "16GB RAM, 512GB SSD",
+      "Intel Iris Xe graphics"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "productId": "P005",
+    "name": "Apple MacBook Air M2",
+    "image": "https://i.ibb.co.com/DL5m75C/download-4.jpg",
+    "category": "MacBook",
+    "price": 1199,
+    "description": "The lightweight and powerful MacBook Air with M2 chip.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "M2 chip",
+      "8GB RAM, 256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "productId": "P006",
+    "name": "Sony WH-1000XM5",
+    "image": "https://i.ibb.co.com/GWcB7N9/download-5.jpg",
+    "category": "Accessories",
+    "price": 399,
+    "description": "Industry-leading noise-canceling headphones with superior sound quality.",
+    "specification": [
+      "30-hour battery life",
+      "Touch controls",
+      "Adaptive sound control"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "productId": "P007",
+    "name": "Bose QuietComfort Earbuds II",
+    "image": "https://i.ibb.co.com/hCTyX7c/download-6.jpg",
+    "category": "Accessories",
+    "price": 299,
+    "description": "Comfortable earbuds with best-in-class noise cancellation.",
+    "specification": [
+      "6-hour battery life",
+      "Touch-sensitive controls",
+      "IPX4 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "productId": "P008",
+    "name": "Amazon Kindle Paperwhite",
+    "image": "https://i.ibb.co.com/5Mb4K3k/download-7.jpg",
+    "category": "Accessories",
+    "price": 139,
+    "description": "Lightweight e-reader with adjustable warm light.",
+    "specification": [
+      "6.8-inch glare-free display",
+      "Waterproof (IPX8)",
+      "10-week battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "productId": "P009",
+    "name": "Nikon Z6 II",
+    "image": "https://i.ibb.co.com/RHLqj9T/download-8.jpg",
+    "category": "Accessories",
+    "price": 1999,
+    "description": "Versatile mirrorless camera for photographers.",
+    "specification": [
+      "24.5MP full-frame sensor",
+      "273-point autofocus",
+      "4K video recording"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "productId": "P010",
+    "name": "Microsoft Surface Pro 9",
+    "image": "https://i.ibb.co.com/sQrYs41/download-9.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "A versatile 2-in-1 tablet and laptop.",
+    "specification": [
+      "13-inch PixelSense display",
+      "Intel Core i5",
+      "8GB RAM, 256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
